@@ -1,2 +1,2 @@
 # LPI
-Exercises from Linux Programming Interface
+Exercises from the book Linux Programming Interface by Micheal Kerrisk
